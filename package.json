@@ -1,5 +1,5 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "skillsync",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -31,5 +31,17 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
-  }
+  },
+  "description": "about mento and mentee",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MubarakRaji1/skillsync.git"
+  },
+  "author": "Mubarak Raji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MubarakRaji1/skillsync/issues"
+  },
+  "homepage": "https://github.com/MubarakRaji1/skillsync#readme"
 }
