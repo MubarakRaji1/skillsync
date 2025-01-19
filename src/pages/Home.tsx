@@ -192,8 +192,9 @@ export function Home() {
           <h2 className="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
             <span className="block">Ready to accelerate your career?</span>
             <span className="block text-indigo-200">Join SkillSync today.</span>
+            <p>MADE WITH ❤️ BY MUBARAK RAJI</p>
           </h2>
-          <p>MADE WITH ❤️ BY MUBARAK RAJI</p>
+          
           <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
             <div className="inline-flex rounded-md shadow">
               <Link
