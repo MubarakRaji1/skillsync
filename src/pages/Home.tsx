@@ -193,6 +193,7 @@ export function Home() {
             <span className="block">Ready to accelerate your career?</span>
             <span className="block text-indigo-200">Join SkillSync today.</span>
           </h2>
+          <p>MADE WITH ❤️ BY MUBARAK RAJI</p>
           <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
             <div className="inline-flex rounded-md shadow">
               <Link
